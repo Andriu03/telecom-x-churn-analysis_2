@@ -33,6 +33,3 @@ El proyecto se desarrolla en las siguientes etapas:
 6. Entrenamiento de un modelo de clasificación.
 7. Evaluación del modelo.
 
-## Autor
-
-Andrea Perez
